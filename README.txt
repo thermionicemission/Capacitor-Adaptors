@@ -10,6 +10,8 @@ All designs are licensed under the CERN Open Hardware Licence Version 2 - Permis
 
 ***Repository Contents and Version History***
 
+Board Front.jpg - a representative image of one of the adaptor boards
+
 Large Twist-Lok Adaptor.zip - contains the files to make adaptor boards for the normal four-section capacitors
 
 ---
