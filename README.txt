@@ -17,8 +17,8 @@ Large Twist-Lok Adaptor.zip - contains the files to make adaptor boards for the 
 
 ***Notes***
 
-The boards have provisions for jumpers connect the negative side of the capacitors to the chassis via the mounting holes.
-If the negative side of the capacitors must be isolated from the chassis, do not populate the jumpers.
+The boards have provisions for jumpers connect the negative side of the capacitors to the chassis via the mounting
+holes. If the negative side of the capacitors must be isolated from the chassis, do not populate the jumpers.
 
 The large board uses a 2512 surface mount 0 ohm jumper such as a Vishay/Dale CRCW25120000Z0EH.
 
