@@ -14,7 +14,8 @@ Board Front.jpg - a representative image of one of the adaptor boards
 
 Large Twist-Lok Adaptor.zip - contains the files to make adaptor boards for the normal four-section capacitors
 
----
+*(The small adaptor is in beta and has NOT been tested)*
+Small Twist-Lok Adaptor.zip - contains the files to make adaptor boards for the smaller three-section capacitors
 
 
 ***Notes***
@@ -24,4 +25,9 @@ holes. If the negative side of the capacitors must be isolated from the chassis,
 
 The large board uses a 2512 surface mount 0 ohm jumper such as a Vishay/Dale CRCW25120000Z0EH.
 
-The small board uses a ---
+The small board uses a 0805 surface mount 0 ohm jumper such as a Vishay/Dale CRCW08050000Z0EAC.
+
+
+***Future Additions***
+
+I would like to make a video demonstrating these boards. When I have, a link to it will appear here.
